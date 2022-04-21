@@ -262,8 +262,8 @@
         "small_button_hover": [102, 102, 102, 255],
         "small_button_active": [10, 8, 80, 255],
         "small_button_active_hover": [10, 8, 80, 255],
-        "small_button_text": [102, 102, 102, 255],
-        "small_button_text_hover": [8, 7, 63, 255],
+        "small_button_text": [32, 45, 53, 255],
+        "small_button_text_hover": [32, 45, 53, 255],
         "small_button_text_active": [255, 255, 255, 255],
         "small_button_text_active_hover": [255, 255, 255, 255],
 
