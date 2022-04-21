@@ -230,14 +230,14 @@
         "window_disabled_background": [0, 0, 0, 255],
 
         "text": [32, 45, 53, 255],
-        "text_detail": [174, 174, 174, 128],
+        "text_detail": [32, 45, 53, 128],
         "text_link": [32, 45, 53, 255],
         "text_inactive": [174, 174, 174, 255],
         "text_pressed": [50, 130, 255, 255],
         "text_subtext": [0, 0, 0, 255],
-        "text_medium": [128, 128, 128, 255],
+        "text_medium": [32, 45, 53, 255],
         "text_emphasis": [255, 255, 255, 255],
-        "text_scene": [102, 102, 102, 255],
+        "text_scene": [32, 45, 53, 255],
         "text_scene_hover": [123, 123, 113, 255],
 
         "error": [218, 30, 40, 255],
@@ -267,8 +267,8 @@
         "small_button_text_active": [255, 255, 255, 255],
         "small_button_text_active_hover": [255, 255, 255, 255],
 
-        "button_tooltip": [31, 36, 39, 255],
-        "button_tooltip_border": [68, 192, 255, 255],
+        "button_tooltip": [255, 255, 255, 255],
+        "button_tooltip_border": [32, 45, 53, 255],
         "button_tooltip_text": [32, 45, 53, 255],
 
         "extruder_button_material_border": [255, 255, 255, 255],
@@ -359,7 +359,7 @@
         "checkbox_disabled": [223, 223, 223, 255],
         "checkbox_text": [35, 35, 35, 255],
 
-        "tooltip": [25, 25, 25, 255],
+        "tooltip": [32, 45, 53, 255],
         "tooltip_text": [255, 255, 255, 255],
 
         "message_background": [255, 255, 255, 255],
