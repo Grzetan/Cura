@@ -384,7 +384,10 @@ Item
 
         SystemPalette
         {
-            id: palette
+            id: palette;
+            highlight: UM.Theme.getColor('primary');
+            base: UM.Theme.getColor('primary');
+            light: UM.Theme.getColor('primary');
         }
 
         Label
