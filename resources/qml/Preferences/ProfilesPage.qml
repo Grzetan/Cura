@@ -385,9 +385,6 @@ Item
         SystemPalette
         {
             id: palette;
-            highlight: UM.Theme.getColor('primary');
-            base: UM.Theme.getColor('primary');
-            light: UM.Theme.getColor('primary');
         }
 
         Label
@@ -471,7 +468,7 @@ Item
                     property bool isReadOnly: model.is_read_only
 
                     property bool isCurrentItem: ListView.isCurrentItem
-                    color: isCurrentItem ? palette.highlight : (model.index % 2) ? palette.base : palette.alternateBase
+                    color: isCurrentItem ? UM.Theme.getColor('zmorph_grey') : (model.index % 2) ? palette.base : palette.alternateBase
 
                     Label
                     {
