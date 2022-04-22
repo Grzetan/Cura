@@ -152,16 +152,16 @@ Item
     //     }
     // }
 
-    ApplicationSwitcher
-    {
-        id: applicationSwitcher
-        anchors
-        {
-            verticalCenter: parent.verticalCenter
-            right: parent.right
-            rightMargin: UM.Theme.getSize("default_margin").width
-        }
-    }
+    // ApplicationSwitcher
+    // {
+    //     id: applicationSwitcher
+    //     anchors
+    //     {
+    //         verticalCenter: parent.verticalCenter
+    //         right: parent.right
+    //         rightMargin: UM.Theme.getSize("default_margin").width
+    //     }
+    // }
 
     // AccountWidget
     // {
